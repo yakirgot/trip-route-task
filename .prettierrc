@@ -1,0 +1,11 @@
+{
+  "stylelint": {
+    "rules": {
+      "indentation": 2,
+      "string-quotes": "single"
+    }
+  },
+  "singleQuote": true,
+  "trailingComma": "all",
+  "arrowParens": "always"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "shoop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^26.0.1",
+    "eslint": "7.2.0",
+    "jest": "^26.0.1",
+    "prettier": "2.0.5"
+  }
+}
